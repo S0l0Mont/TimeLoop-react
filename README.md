@@ -2,6 +2,8 @@
 > Be teachable **you don't know everything**, and you're not always right.
 
 Wow za, Quote is take my heart keep going Learning and keep my unpretentiousness.
+## Language
+
 
 ## Developer Tools & Platforms 
 
