@@ -6,6 +6,14 @@ Wow za, Quote is take my heart keep going Learning and keep my unpretentiousness
 
 
 ## Developer Tools & Platforms 
+|                |Descriptions                          |Experience                         |
+|----------------|-------------------------------|-----------------------------|
+|[JavaScript]()||Expert |
+|[TypeScript]||Expert|
+|[Python]||Expert|
+|[Go]||Novice|
+|[Rust]||Beginer|
+
 
 ### **Frameworks / Infrastructure / Backends**
 |                |Descriptions                          |Experience                         |
