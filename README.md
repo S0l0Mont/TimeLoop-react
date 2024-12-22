@@ -9,10 +9,14 @@ Wow za, Quote is take my heart keep going Learning and keep my unpretentiousness
 |                |Descriptions                          |Experience                         |
 |----------------|-------------------------------|-----------------------------|
 |[JavaScript]()||Expert |
-|[TypeScript]||Expert|
-|[Python]||Expert|
-|[Go]||Novice|
-|[Rust]||Beginer|
+|[TypeScript()]||Expert|
+|[Python()]||Expert|
+|[Go()]||Novice|
+|[Rust()]||Beginer|
+|[Ruby()]||Beginer|
+|[java()]||Beginer|
+|[Kotlin()]||Beginer|
+
 
 
 ### **Frameworks / Infrastructure / Backends**
