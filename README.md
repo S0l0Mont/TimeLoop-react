@@ -16,7 +16,7 @@ Wow za, Quote is take my heart keep going Learning and keep my unpretentiousness
 |[Ruby()]||Beginer|
 |[java()]||Beginer|
 |[Kotlin()]||Beginer|
-
+|[C/C++]()||Beginer |
 
 
 ### **Frameworks / Infrastructure / Backends**
