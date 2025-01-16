@@ -3,20 +3,20 @@
 
 Wow za, Quote is take my heart keep going Learning and keep my unpretentiousness.
 ## Language
-
-
-## Developer Tools & Platforms 
 |                |Descriptions                          |Experience                         |
 |----------------|-------------------------------|-----------------------------|
 |[JavaScript]()||Expert |
-|[TypeScript()]||Expert|
-|[Python()]||Expert|
-|[Go()]||Novice|
-|[Rust()]||Beginer|
-|[Ruby()]||Beginer|
-|[java()]||Beginer|
-|[Kotlin()]||Beginer|
+|[TypeScript]()||Expert|
+|[Python]()||Expert|
+|[Go]()||Novice|
+|[Rust]()||Novice|
+|[Ruby]()||Novice|
+|[java]()||Novice|
+|[Kotlin]()||Novice|
 |[C/C++]()||Beginer |
+
+## Developer Tools & Platforms 
+
 
 
 ### **Frameworks / Infrastructure / Backends**
